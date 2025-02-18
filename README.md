@@ -29,13 +29,10 @@
    ```sh
    npm run dev
    ```
-
-## 🎨 UI Inspiration  
-The UI is designed to provide a **sleek, modern, and immersive food-ordering experience**, with a **dark-themed background, glassmorphism cards, and vibrant food images**.  
-
 ---
-
 
 ![this one](https://github.com/user-attachments/assets/5ba62212-c244-495d-9755-4596da67e0e5)
 
 
+## 🎨 UI Inspiration  
+The UI is designed to provide a **sleek, modern, and immersive food-ordering experience**, with a **dark-themed background, glassmorphism cards, and vibrant food images**.  
