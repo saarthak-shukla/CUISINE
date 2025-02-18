@@ -34,7 +34,7 @@
 The UI is designed to provide a **sleek, modern, and immersive food-ordering experience**, with a **dark-themed background, glassmorphism cards, and vibrant food images**.  
 
 ---
+![this one](https://github.com/user-attachments/assets/cac0100f-743a-4873-8f9e-6c0c84ce3d49)
 
 
 
-![final](https://github.com/user-attachments/assets/5707c3aa-7867-42ce-8770-b1e06b2c7de3)
