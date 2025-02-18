@@ -29,8 +29,6 @@
    ```sh
    npm run dev
    ```
----
-
 ![this one](https://github.com/user-attachments/assets/5ba62212-c244-495d-9755-4596da67e0e5)
 
 
